@@ -39,6 +39,12 @@
     "version": "4.8.2",
     "group": "Misc",
     "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/UnityExplorer.BIE5.Mono.dll",
+  },
+  {
+    "name": "Unity Explorer",
+    "author": "sinai-dev",
+    "version": "4.8.2",
+    "group": "Misc",
     "download_url2": "https://github.com/azirdadev/ModsForMCM/releases/download/d/UniverseLib.Mono.dll"
   },
   {
