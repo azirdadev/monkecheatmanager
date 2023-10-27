@@ -34,11 +34,24 @@
     "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/ShibaGTDARK.dll"
   },
   {
-    "name": "Unity Explorer",
+    "name": "Unity Explorer File 1",
     "author": "sinai-dev",
-    "version": "I dunno",
+    "version": "4.8.2",
+    "dependencies": [
+      "Unity Explorer File 2"
+    ],
     "group": "Misc",
-    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/UnityExplorer.zip"
+    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/UnityExplorer.BIE5.Mono.dll"
+  },
+    {
+    "name": "Unity Explorer File 2",
+    "author": "sinai-dev",
+    "version": "4.8.2",
+    "dependencies": [
+      "Unity Explorer File 1"
+    ],
+    "group": "Misc",
+    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/UniverseLib.Mono.dll"
   },
   {
     "name": "Extenject",
