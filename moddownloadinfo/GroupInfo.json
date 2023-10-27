@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Core",
+    "rank" : 0
+  },
+  {
+    "name" : "Cosmetic",
+    "rank" : 1
+  },
+  {
+    "name" : "Mod Menus",
+    "rank" : 2
+  },
+  {
+    "name" : "Misc",
+    "rank" : 3
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 4
+  }
+]
