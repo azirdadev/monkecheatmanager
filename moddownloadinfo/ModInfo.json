@@ -34,13 +34,6 @@
     "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/ShibaGTDARK.dll"
   },
   {
-    "name": "Unity Explorer",
-    "author": "sinai-dev",
-    "version": "4.8.2",
-    "group": "Misc",
-    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/UnityExplorer.BIE5.Mono.dll",
-  },
-  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
