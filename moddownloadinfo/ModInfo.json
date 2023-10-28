@@ -18,6 +18,13 @@
     "group": "Mod Menus",
     "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/ArcticFree-V2.1.dll"
   },
+    {
+    "name": "GV Client",
+    "author": "IDK",
+    "version": "3.3",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/GVClient_V3.3_OBFUSCATED.dll"
+  },
     
   {
     "name": "NIKO Menu V2",
