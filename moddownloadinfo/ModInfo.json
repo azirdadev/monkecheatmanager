@@ -12,6 +12,14 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
+    "name": "Artic Free",
+    "author": "RXIN",
+    "version": "2.1.0",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/ArcticFree-V2.1.dll"
+  },
+    
+  {
     "name": "NIKO Menu V2",
     "author": "notfishvr",
     "version": "2.0.0",
@@ -56,9 +64,6 @@
     "name": "Sticky Cosmetics",
     "author": "Faultyn",
     "version": "1.0",
-    "dependencies": [
-      "HoneyLib"
-    ],
     "group": "Misc",
     "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/StickyCosmetics.dll"
   },
