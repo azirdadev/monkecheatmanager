@@ -16,7 +16,7 @@
     "author": "RXIN",
     "version": "2.1.0",
     "group": "Mod Menus",
-    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/ArcticFree-V2.1.dll"
+    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/fixed.dll"
   },
     {
     "name": "GV Client",
@@ -27,15 +27,15 @@
   },
     
   {
-    "name": "NIKO Menu V2",
-    "author": "notfishvr",
+    "name": "Tundra",
+    "author": "Btc",
     "version": "2.0.0",
     "dependencies": [
       "Bepinject",
       "Utilla"
     ],
     "group": "Mod Menus",
-    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/NIKO_Menu_V2.dll"
+    "download_url": "https://github.com/azirdadev/ModsForMCM/releases/download/d/TundraV1.dll"
   },
   {
     "name": "Kevin Dark V14",
